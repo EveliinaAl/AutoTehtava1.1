@@ -66,6 +66,7 @@ public class Uusi {
 			System.out.println("Merkki: " + merkki);
 			System.out.println("Malli: " + malli);
 			System.out.println("Bensa: " + bensanMaara);
+			System.out.println("ensimmäinen");
 		}
 		public void tankkaa() 
 		{
